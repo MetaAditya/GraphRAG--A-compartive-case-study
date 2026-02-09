@@ -1,0 +1,59 @@
+
+
+#############Multi Hop Reasoning Queries #########################
+
+How did India move from: Colonial dependency economy and Mixed socialist economy, to Liberalized global economy and Regional economic leader in South Asia
+
+How did policies from the British Empire economy influence the economic structure India inherited at independence, and how did that contribute to the 1991 crisis?
+
+What shared structural weaknesses link the colonial economy, pre-1991 India, and the 1991 crisis?
+
+#######################Comparative and Conflict detection###################
+
+How does the modern Economy of India differ from the broader Economy of South Asia in terms of growth drivers?
+Compare state-led development models vs liberalized market models in India’s economic history.
+
+
+Where do the economic goals of the Indian National Congress post-independence conflict with the structural economic realities inherited from the British colonial economy?
+
+Which economic control mechanisms used during colonial rule reappeared in different forms under the pre-1991 Indian regulatory state?
+
+
+########################Counterfactual (What-If Scenario) Queries###################
+
+
+If the British Empire had industrialized India instead of structuring it as an extraction economy, which economic constraints leading to the 1991 crisis would likely not have existed?
+
+If India had not inherited colonial trade deficits and foreign exchange dependency, would the 1991 balance-of-payments crisis still have occurred?
+
+If India had responded to the 1991 crisis with protectionism instead of liberalization, would its economy still dominate South Asia today?
+
+
+#############################
+
+
+#######################10 other queries
+Trace the causal path from British colonial economic policies to the 1991 Indian economic crisis, naming intermediate economic structures.
+How did the Indian National Congress’s economic ideology interact with colonial economic legacies to shape India’s pre-1991 economy?
+
+
+
+
+################### dependency#############################
+Identify economic policies where the Indian National Congress indirectly reinforced colonial-era economic structures
+
+Which components of India’s modern economic structure are most dependent on colonial-era trade and institutional arrangements, and which are least dependent?
+
+What single policy decision had the highest downstream economic impact across multiple decades?
+
+##### The Big picture questions#############
+
+What is the complete causal story of how India transitioned from a colonial extraction economy to a globally integrated market economy?
+
+How did political ideology, historical constraints, and economic crises collectively shape India’s modern economic identity?
+
+What is the minimum set of historical, political, and economic factors required to explain modern India’s economic structure?
+
+What single unified causal narrative best explains India’s economic evolution from colonial rule to global integration?
+
+
