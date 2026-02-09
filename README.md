@@ -19,3 +19,5 @@ About graph_DataPrep.py
 a) In here I have chosen the topic "The story of Indian Economy" simply because of its complexity and popularity. 
 b) In the main article I have chosen specific topics Economy of India, Economic history of India, 1991 Indian economic crisis, Economy of South Asia, Indian National Congress and Economy of the British Empire.
 c) Using langchain modules, the article has been converted to graph data 
+
+![Graph RAG Architecture](detail_graph_data.png)
