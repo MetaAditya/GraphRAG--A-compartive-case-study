@@ -20,7 +20,8 @@ a) In here I have chosen the topic "The story of Indian Economy" simply because 
 b) In the main article I have chosen specific topics Economy of India, Economic history of India, 1991 Indian economic crisis, Economy of South Asia, Indian National Congress and Economy of the British Empire.
 c) Using langchain modules, the article has been converted to graph data 
 
-NOTE: You definitely need OpenAI subscription, as of now Ne04j supports only OpenAI supported embeddings
+NOTE: You definitely need OpenAI subscription, as of now Ne04j supports only OpenAI supported embeddings.
+For the experiment here, I have used OpenAI text-3-embeddings-small of 1536 dimensions for both Naive RAG and Graph RAG
 
 
 
